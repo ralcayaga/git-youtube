@@ -7,4 +7,7 @@
 4.- git commit -m "comentario"   --> saca la fotografia del respositorio
 5.- git checkout -- .            --> devuelve añ ultimo commit que se hizo, en caso de perdidas
 6.- git log                      --> muestra el listado de todos los commits realizados con su   respectivo identificador asi
-                                 --> uno puede  
+                                     uno puede.
+7.- git commit --amend           --> Permite editar el commint y asi poder realizar los cambios (i: para editar y esc wq! para 
+                                     grabar)
+8.- git checkout -b nombre_rama  --> Crea una nueva rama (-b = branch) 
