@@ -11,3 +11,4 @@
 7.- git commit --amend           --> Permite editar el commint y asi poder realizar los cambios (i: para editar y esc wq! para 
                                      grabar)
 8.- git checkout -b nombre_rama  --> Crea una nueva rama (-b = branch) 
+9.- git branch                   --> Me indica en que rama estoy
