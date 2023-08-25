@@ -5,6 +5,7 @@
                                 --> clasifica los cambios que se realizan el repositorio (new file, delete file,             --> modified, untrack (sin clasificacion))
 03. git reset                    --> revierte el comando "git add", en caso de haberse equivocado
 04. git commit -m "comentario"   --> saca la fotografia del respositorio
+                                 --> -am evitamos tener hacer el git add . y despues el git commit -m
 05. git checkout -- .            --> devuelve añ ultimo commit que se hizo, en caso de perdidas
 06. git log                      --> muestra el listado de todos los commits realizados con su   respectivo identificador asi
                                     uno puede.
